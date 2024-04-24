@@ -1,0 +1,19 @@
+{
+  "name": "word_count7",
+  "version": "1.0.0",
+  "description": "Word Count Program",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "init": "^0.1.2",
+    "inquirer": "^9.2.19"
+  }
+}
